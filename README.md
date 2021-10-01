@@ -7,9 +7,10 @@ Lógica de programação<br>
 * index.js
 </p>
 <p align="center">
-  <b>Para visualizar o fluxograma</b><br>
-  1.<b> Abrir o projeto Fluxograma<br></b>
-  2.<b> Clicar em Fluxograma.drawio.png</b>
+  <b>Para visualizar o projeto</b><br>
+  1.<b> Abrir o projeto situacao-problema2<br></b>
+  2.<b> Clicar em index.js</b>
+  3.<b> No VSC rodar node index.js no terminal
 </p>
 <p align="center">
 Aplicando técnicas de programação e ferramentas para o desenvolvimento do código.<br>
